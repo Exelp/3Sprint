@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	s, p, d := getRactangleData(4, 5)
+	s, p, d := getRactangleData(5, 6)
 	fmt.Println("Площадь:", s)
 	fmt.Println("Периметр:", p)
 	fmt.Println("Диагональ:", d)
